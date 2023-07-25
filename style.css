@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.text {
+    text-decoration: none;
+    color: black;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+#table {
+    margin-top: 30px;
+    text-align: center;    
+}
+
+#tr {
+    text-decoration: none;
+}
+
